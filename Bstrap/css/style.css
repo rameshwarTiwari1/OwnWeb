@@ -707,8 +707,8 @@ a:hover {
 # Hero Section
 --------------------------------------------------------------*/
 .hero {
-  height: 100vh;
-  position: absolute;
+  height: 200vh;
+  position: relative;
   color: #fff;
 }
 
